@@ -1,0 +1,36 @@
+{
+    "title": "Discord Profile",
+    "profilePic": {
+        "src": "pic/phupa.jpg",
+        "alt": "Phupa's picture"
+    },
+    "info": {
+        "label": "ชื่อ:",
+        "name": "รัญชน์ ประกายรุ้งทอง"
+    },
+    "hobbies": {
+        "label": "งานอดิเรก:",
+        "list": ["เล่นเกม"]
+    },
+    "skills": {
+        "label": "ความสามารถ:",
+        "list": ["Coding, Editing"]
+    },
+    "interests": {
+        "label": "ความสนใจ:",
+        "list": ["Project Manager"]
+    },
+    "contact": {
+        "label": "Contact me:",
+        "link": {
+            "text": "Click Here",
+            "url": "https://www.facebook.com/SwordAceTomato/"
+        }
+    },
+    "servers": [
+        {
+            "image": "pic/phupa2.jpg",
+            "title": "Portfolio + Reference"
+        }
+    ]
+}

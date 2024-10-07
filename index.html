@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Discord Profile</title>
+    <link rel="stylesheet" href="main.css">
+</head>
+<body>
+    <div class="discord-container">
+        <div class="sidebar"></div>
+        <div class="profile-content">
+            <div class="profile-header">
+                <img id="profile-pic" src="" alt="Profile Picture">
+                <div>
+                    <h1 id="username"></h1>
+                    <p id="status">Online</p>
+                </div>
+            </div>
+            <div class="profile-details">
+                <div class="details-container">
+                    <div class="work-item info"></div>
+                    <div class="work-item hobbies"></div>
+                    <div class="work-item skills"></div>
+                    <div class="work-item interests"></div>
+                </div>
+                <footer>
+                    <a id="contact-link" href="" target="_blank"></a>
+                </footer>
+            </div>
+        </div>
+    <script src="portfolioData.js"></script>
+    <script>
+        function openAddWorkPage() {
+            window.location.href = 'project.html';
+        }
+    </script>
+</body>
+</html>

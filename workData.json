@@ -1,0 +1,49 @@
+{
+    "workData": [
+        {
+            "name": "Assignment 3",
+            "link": "https://swordtomato.github.io/assignment-3/",
+            "image": ""
+        },
+        {
+            "name": "Assignment 4",
+            "link": "https://swordtomato.github.io/assignment-4/",
+            "image": ""
+        },
+        {
+            "name": "Assignment 5",
+            "link": "https://swordtomato.github.io/assignment-5/",
+            "image": ""
+        },
+        {
+            "name": "Assignment 6",
+            "link": "https://swordtomato.github.io/assignment-6/",
+            "image": ""
+        },
+        {
+            "name": "Assignment 7",
+            "link": "https://swordtomato.github.io/assignment-7/",
+            "image": ""
+        },
+        {
+            "name": "Maya Animation",
+            "link": "https://www.youtube.com/playlist?list=PLJ8h_L_Cq3qsi2VI8dWDg8ChX8xrAdmg3",
+            "image": "pic/maya.png"
+        },
+        {
+            "name": "Animation 2D",
+            "link": "https://youtu.be/HvO0BkNPNEw",
+            "image": "pic/2d.png"
+        },
+        {
+            "name": "Youtube Channel",
+            "link": "https://www.youtube.com/@SwordAce",
+            "image": "pic/YT.png"
+        },
+        {
+            "name": "Reference",
+            "link": "https://discord.com/app",
+            "image": "pic/discord.jpg"
+        }
+    ]
+}
