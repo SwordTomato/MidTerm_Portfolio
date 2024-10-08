@@ -335,6 +335,17 @@ button:hover {
     background-color: #677bc4;
 }
 
+@media (max-width: 1020px) {
+    .work-image {
+        width: auto;
+        height: auto;
+        max-width: 30rem;
+        object-fit: cover;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+}
+
 @media (max-width: 768px) {
     .discord-container {
         flex-direction: column;
@@ -348,11 +359,16 @@ button:hover {
 
     .sidebar {
         position: absolute;
-        margin-top: 10rem;
+        margin-top: 7rem;
     }
 
     .work-image {
-        width: 100vh;
+        width: auto;
+        height: auto;
+        max-width: 15rem;
+        object-fit: cover;
+        margin-top: 10px;
+        margin-bottom: 10px;
     }
 
     #profile-pic {
@@ -370,6 +386,12 @@ button:hover {
     .work-item {
         font-size: 14px;
         padding: 10px;
+    }
+
+    .work-item a {
+        color: #7289da;
+        text-decoration: none;
+        font-size: 15px; /* Adjust font size for links */
     }
 
     .info, .hobbies, .skills, .interests {
@@ -390,5 +412,9 @@ button:hover {
         padding: 10px 20px;
         font-size: 14px;
     }
-}
 
+    .sidebar {
+        position: absolute;
+        margin-top: 5rem;
+    }
+}
